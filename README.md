@@ -1,8 +1,6 @@
 # Sentiment-Analysis-by-combining-Machine-Learning-and-Lexicon-Based-methods
 This project is on twitter sentimental analysis by combining lexicon based and machine learning approaches. A supervised lexicon-based approach for extracting sentiments from tweets was implemented. Various supervised machine learning approaches were tested using scikit-learn libraries in python and implemented Decision Trees and Naive Bayes techniques.
 
-The goal of this project is to use a combination of lexicon based methods and Machine Learning Techniques for Sentiment Analysis. A supervised lexicon-based approach was used in combination with a number of Machine Learning appr
-
 The entire code for preprocessing, implementation and post-processing of the project was done in Python 2.7.
 
 ## Overview of the Project
